@@ -97,5 +97,5 @@ Truth table of Full adder:
 
 
 
-### Result:
+### Result
 Thus the half adder and full adder are studied and the truth table for different logic gates are verified.
